@@ -1,0 +1,41 @@
+{
+    "name": "Salma",
+    "age": 22,
+    "gender": "female",
+    "weight": 68,
+    "height": 165,
+    "activity_level": "Lightly active",
+    "goal": "lose weight",
+    "target_weight": 60,
+    "meals_per_day": 5,
+    "medical_conditions": [
+        "eggs allergy"
+    ],
+    "daily_calorie_target": 1500,
+    "food_preferences": {
+        "liked_foods": [
+            "chicken",
+            "salad",
+            "grilled vegetables",
+            "smoothies"
+        ],
+        "disliked_foods": [
+            "fish",
+            "spinach",
+            "tofu"
+        ],
+        "allergies": [
+            "eggs",
+            "nuts"
+        ]
+    },
+    "dietary_restrictions": {
+        "avoid": [],
+        "must_include": []
+    },
+    "flavor_preferences": {
+        "spicy": false,
+        "sweet": true,
+        "savory": true
+    }
+}

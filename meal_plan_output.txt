@@ -1,0 +1,52 @@
+BMR = 1440.25 calories
+Calories per day = 2484.43 calories
+
+Number of Meals per Day = 5
+
+Recommended Meals:
+
+Meal_1:
+  - Salmon: 86.00g (178.88 calories, 17.20g protein, 0.00g carb, 11.18g fats)
+  - Broccoli: 409.20g (139.13 calories, 11.46g protein, 28.64g carb, 1.64g fats)
+  Total Calories: 318.01
+  Total Protein: 28.66g
+  Total Carbs: 28.64g
+  Total Fats: 12.82g
+
+Meal_2:
+  - Greek Yogurt: 303.18g (178.88 calories, 30.32g protein, 10.91g carb, 1.21g fats)
+  - Broccoli: 409.20g (139.13 calories, 11.46g protein, 28.64g carb, 1.64g fats)
+  Total Calories: 318.01
+  Total Protein: 41.78g
+  Total Carbs: 39.56g
+  Total Fats: 2.85g
+
+Meal_3:
+  - Chicken Breast: 108.41g (178.88 calories, 33.61g protein, 0.00g carb, 3.90g fats)
+  - Oatmeal: 204.60g (139.13 calories, 4.91g protein, 24.55g carb, 2.86g fats)
+  Total Calories: 318.01
+  Total Protein: 38.52g
+  Total Carbs: 24.55g
+  Total Fats: 6.77g
+
+Meal_4:
+  - Salmon: 86.00g (178.88 calories, 17.20g protein, 0.00g carb, 11.18g fats)
+  - Sweet Potato: 161.78g (139.13 calories, 2.59g protein, 32.36g carb, 0.16g fats)
+  Total Calories: 318.01
+  Total Protein: 19.79g
+  Total Carbs: 32.36g
+  Total Fats: 11.34g
+
+Meal_5:
+  - Salmon: 86.00g (178.88 calories, 17.20g protein, 0.00g carb, 11.18g fats)
+  - Spinach: 604.90g (139.13 calories, 17.54g protein, 21.78g carb, 2.42g fats)
+  Total Calories: 318.01
+  Total Protein: 34.74g
+  Total Carbs: 21.78g
+  Total Fats: 13.60g
+
+Total for the day:
+  Total Calories: 1590.04
+  Total Protein: 163.48g
+  Total Carbs: 146.89g
+  Total Fats: 47.37g
