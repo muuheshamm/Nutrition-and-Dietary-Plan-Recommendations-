@@ -1,0 +1,100 @@
+{
+  "user_profile": {
+    "name": "Salma",
+    "age": 22,
+    "gender": "female",
+    "weight": 68,
+    "height": 165,
+    "waist": 75,   
+    "neck": 35,    
+    "hip": 95,    
+    "activity_level": "Lightly active",
+    "goal": "lose weight",
+    "target_weight": 60,
+    "meals_per_day": 5,
+    "medical_conditions": ["eggs allergy"],
+    "daily_calorie_target": 1500,
+    "food_preferences": {
+      "liked_foods": ["chicken", "salad", "grilled vegetables", "smoothies"],
+      "disliked_foods": ["fish", "spinach", "tofu"],
+      "allergies": ["eggs", "nuts"]
+    },
+    "dietary_restrictions": {
+      "avoid": [],
+      "must_include": []
+    },
+    "flavor_preferences": {
+      "spicy": false,
+      "sweet": true,
+      "savory": true
+    }
+  },
+  "nutrition_plan": {
+    "daily_details": "Weekly Nutrition Plan for Salma... (detailed plan here)",
+    "meal_breakdown": {
+      "breakfast": {
+        "items": [],
+        "total_calories": 0,
+        "macronutrients": {
+          "protein": 0,
+          "carbs": 0,
+          "fats": 0
+        },
+        "personalization_notes": ""
+      },
+      "mid_morning_snack": {
+        "items": [],
+        "total_calories": 0,
+        "macronutrients": {
+          "protein": 0,
+          "carbs": 0,
+          "fats": 0
+        },
+        "personalization_notes": ""
+      },
+      "lunch": {
+        "items": [],
+        "total_calories": 0,
+        "macronutrients": {
+          "protein": 0,
+          "carbs": 0,
+          "fats": 0
+        },
+        "personalization_notes": ""
+      },
+      "afternoon_snack": {
+        "items": [],
+        "total_calories": 0,
+        "macronutrients": {
+          "protein": 0,
+          "carbs": 0,
+          "fats": 0
+        },
+        "personalization_notes": ""
+      },
+      "dinner": {
+        "items": [],
+        "total_calories": 0,
+        "macronutrients": {
+          "protein": 0,
+          "carbs": 0,
+          "fats": 0
+        },
+        "personalization_notes": ""
+      }
+    },
+    "daily_total": {
+      "calories": 0,
+      "macronutrients": {
+        "protein": 0,
+        "carbs": 0,
+        "fats": 0
+      }
+    }
+  },
+  "personalization_guidelines": {
+    "preference_accommodation": "",
+    "alternative_meal_strategy": "",
+    "feedback_mechanism": ""
+  }
+}
